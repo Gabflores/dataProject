@@ -22,18 +22,25 @@
   "users": [
     {
       "id": 1,
+      "email": "anakin@gmail.com",
+      "password": "ana123",
       "name": "Anakin",
       "lastName": "Skywalker"
     },
     {
       "id": 2,
+
       "name": "Padme",
-      "lastName": "Amidala"
+      "lastName": "Amidala",
+      "email": "ami@gmail.com",
+      "password": "ami123"
     },
     {
       "id": 3,
       "name": "Obi-Wan",
-      "lastName": "Kenobi"
+      "lastName": "Kenobi",
+      "email": "obi@gmail.com",
+      "password": "obi123"
     }
   ]
 }
