@@ -29,18 +29,17 @@
     },
     {
       "id": 2,
-
-      "name": "Padme",
-      "lastName": "Amidala",
       "email": "ami@gmail.com",
-      "password": "ami123"
+      "password": "ami123",
+      "name": "Padme",
+      "lastName": "Amidala"
     },
     {
       "id": 3,
-      "name": "Obi-Wan",
-      "lastName": "Kenobi",
       "email": "obi@gmail.com",
-      "password": "obi123"
+      "password": "obi123",
+      "name": "Obi-Wan",
+      "lastName": "Kenobi"
     }
   ]
 }
