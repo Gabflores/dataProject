@@ -4,55 +4,55 @@
       "id": 1,
       "comment": "Test comment on post #1",
       "postId": 1,
-      "user": 1
+      "user": "Anakin"
     },
     {
       "id": 2,
       "comment": "Test comment on post #1",
       "postId": 1,
-      "user": 2
+      "user": "Padme"
     },
     {
       "id": 3,
       "comment": "Test comment on post #2",
       "postId": 2,
-      "user": 3
+      "user": "Obi-Wan"
     },
     {
       "id": 24288,
       "comment": "Muy divertido",
       "postId": 1,
-      "user": 3
+      "user": "Anakin"
     },
     {
       "id": 24288,
       "comment": "Excelente juego",
       "postId": 2,
-      "user": 1
+      "user": "Obi-Wan"
     },
     {
       "id": 24288,
       "comment": "Personajes interesantes",
       "postId": 3,
-      "user": 2
+      "user": "Padme"
     },
     {
       "id": 53973,
       "comment": "Muy divertido",
       "postId": 1,
-      "user": 1
+      "user": "Anakin"
     },
     {
       "id": 53973,
       "comment": "Excelente juego",
       "postId": 2,
-      "user": 2
+      "user": "Padme"
     },
     {
       "id": 53973,
       "comment": "Personajes interesantes",
       "postId": 3,
-      "user": 3
+      "user": "Obi-Wan"
     }
   ],
   "users": [
